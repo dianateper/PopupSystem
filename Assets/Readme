@@ -1,0 +1,4 @@
+﻿1. Instead of using coroutines, I chose to use the UniTask library because it was easier to use and helped me resolve the issue of waiting for all tasks. 
+Additionally, I used the DotWeen package to animate popups.
+2. The challenge I encountered was waiting for all resources to finish loading from the server side.
+3. Given more time, I would have worked on improving the UI.
